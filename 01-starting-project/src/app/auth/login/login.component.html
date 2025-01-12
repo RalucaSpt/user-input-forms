@@ -4,7 +4,7 @@
   <div class="control-row">
     <div class="control no-margin">
       <label for="email">Email</label>
-      <input id="email" type="email" [formControl]="form.control.email" />
+      <input id="email" type="email" [formControl]="form.controls.email"/>
     </div>
 
     <div class="control no-margin">
@@ -14,4 +14,12 @@
 
     <button class="button">Login</button>
   </div>
+
+  @if(emailIsInvalid){
+    <div class="control-error">Email is required</div>
+  }
+
+  @if(passwordIsInvalid){
+    <div class="control-error">Password is required</div>
+  }
 </form>

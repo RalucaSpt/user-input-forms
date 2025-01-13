@@ -1,4 +1,4 @@
-#Handling User Input & Forms in Angular
+# Handling User Input & Forms in Angular
 
 Through this project, I gained a solid understanding of how to handle user input and manage forms in Angular using both Template-driven and Reactive approaches. Here's what I learned:
 
@@ -10,9 +10,7 @@ Through this project, I gained a solid understanding of how to handle user input
 
 ## Deployment
 
-The project is deployed and accessible online. You can view it at the following link:
-
-**[Deployed Site](https://user-input-forms-eto86pwf2-raluca-spatarus-projects.vercel.app)**
+The project is deployed and accessible online. You can view it at the following link: **[Deployed Site](https://user-input-forms-eto86pwf2-raluca-spatarus-projects.vercel.app)**
 
 
 # Forms
